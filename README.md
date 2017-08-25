@@ -1,2 +1,2 @@
 # Inventory-System
-Can Track Inventory and Add and Adjust to see profits and revenue
+Can manage, track, add, modify inventory items using the Inventory System.
